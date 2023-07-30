@@ -11,7 +11,7 @@ Live Link : https://surajrawat12345.github.io/headphone/
 <img src="https://img.shields.io/badge/Page-Product%2FLanding-violet"> <img src="https://img.shields.io/badge/Headphones-red">
 
 # Author
-<img src="https://img.shields.io/badge/Author-Suraj_Rawat-blue">
+<img src="https://img.shields.io/badge/Author-Suraj_Rawat-blue?labelColor=%23E74C3C">
 
 <img src="https://img.shields.io/badge/LinkedIn-crimson"> : https://www.linkedin.com/in/suraj-rawat123/
 
